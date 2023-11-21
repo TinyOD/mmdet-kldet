@@ -8,13 +8,13 @@
 ## Installation
 ### Required environments:
 -  Linux
--  Python 3.7 (Python 2 is not supported)
--   PyTorch  **1.5**  or higher
--   CUDA 10.1 or higher
--   NCCL 2
+-  Python **3.7** (Python 2 is not supported)
+-   PyTorch **1.5**  or higher
+-   CUDA **10.1** or higher
 -   GCC(G++)  **5.4**  or higher
--   [mmcv-nwd](https://github.com/jwwangchn/mmcv-nwd.git)==**1.3.5**
+-   [MMCV](https://mmcv.readthedocs.io/en/latest/#installation)
 -   [cocoapi-aitod](https://github.com/jwwangchn/cocoapi-aitod)==**12.0.3**
+
 ### Install:
 This project is implemented based on the [MMDetection](https://github.com/open-mmlab/mmdetection) toolkit. Once your environment has met the above requirements, follow the steps below to install.
 ```c
