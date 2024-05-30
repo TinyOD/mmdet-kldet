@@ -18,7 +18,7 @@
 ### Install:
 This project is implemented based on the [MMDetection](https://github.com/open-mmlab/mmdetection) toolkit. Once your environment has met the above requirements, follow the steps below to install.
 ```c
-git clone https://github.com/TinyOD/KLDet.git
+git clone https://github.com/TinyOD/mmdet-kldet.git
 cd mmdet-kldet
 pip install -r requirements/build.txt
 python setup.py develop
