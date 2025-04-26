@@ -16,7 +16,7 @@ from .aitod import AITODDataset
 from .dota import DOTA2Dataset
 from .coco_tinyeval import CocoDatasettinyeval
 from .visdrone import VisDroneDataset
-
+from .dior import DIORDataset
 __all__ = [
     'CustomDataset', 'XMLDataset', 'CocoDataset', 'DeepFashionDataset',
     'VOCDataset', 'CityscapesDataset', 'LVISDataset', 'LVISV05Dataset',
